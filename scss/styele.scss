@@ -170,3 +170,16 @@ body {
     margin-bottom: 10px;
   }
 }
+
+ul{
+  display: flex;
+  gap: 20px;
+  li{
+    list-style: none;
+    a{
+text-decoration:  none;
+color: white;
+    }
+  }
+}
+
